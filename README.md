@@ -22,7 +22,7 @@
 
 **COCO test-dev**：https://paperswithcode.com/
 
-**项目教程**： https://www.bilibili.com/video/BV1Lq4y1Z7
+**项目教程**： https://www.bilibili.com/video/BV1Lq4y1Z7dm
 
 **项目资料**：
 
