@@ -2,7 +2,7 @@
 
 ### 简介
 
-**项目成员**：wqa，ljh等
+**项目成员**：[wqa247](https://github.com/wqa247)，[wqaEmilia](https://github.com/wqaEmilia)等
 
 **目前人数**：2人
 
@@ -22,9 +22,7 @@
 
 **COCO test-dev**：https://paperswithcode.com/
 
-**项目教程**：
-
- https://www.bilibili.com/video/BV1Lq4y1Z7
+**项目教程**： https://www.bilibili.com/video/BV1Lq4y1Z7
 
 **项目资料**：
 
@@ -36,16 +34,16 @@
 
 **第2-3天**：学习python和openCV的基本函数，做好笔记
 
-**第4-6天**：学习opencv并实现成品
+**第4-6天**：学习opencv并实现成品(已完成)
 
 **回校开发规化**：
 
-**ljh**：
+**wqaEmilia**：
 
 1. 携带rsp 3B+回学校继续学习其他视觉框架(YOLO等)
 2. 完成机器视觉的道路车辆计数和测速，开发平台为树莓派将大大提高项目价值(视难度而定)，rsp配件用快递的方式进行邮寄
 
-**wqa**：
+**wqa247**：
 
 1. 完成opencv项目的制作后继续学习openpose的搭建直到项目结项。
 
