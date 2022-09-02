@@ -2,7 +2,7 @@
 
 ### 介绍
 
-**简介**：`OpenCV`（开源计算机视觉库：http://opencv.org/）是一个包含数百种计算机视觉算法的开源库
+**简介**：`OpenCV`（开源计算机视觉库：http://opencv.org）是一个包含数百种计算机视觉算法的开源库
 
 **官网**：https://opencv.org/
 
